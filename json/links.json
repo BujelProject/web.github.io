@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Telegram",
+        "color": "#0088cc",
+        "icon": "telegram",
+        "url": "https://t.me/itsme_rizxx"
+	},
+    {
+        "name": "Instagram",
+        "color": "#bc2a8d",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/itsme_rizxx"
+	},
+    {
+        "name": "Github",
+        "color": "black",
+        "icon": "github-face",
+        "url": "https://github.com/BujelProject"
+	},
+    {
+        "name": "Twitter",
+        "color": "#00acee",
+        "icon": "twitter",
+        "url": "https://twitter.com/Sontolodon"
+	},
+    {
+        "name": "Cloud",
+        "color": "#7289da",
+        "icon": "drive",
+        "url": "https://bujeldev.my.id"
+	}
+]
