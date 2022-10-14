@@ -1,20 +1,26 @@
 [
     {
-        "name": "Music",
-        "description": "Telegram music bot,focus on audio. \n click visit to invite this bot to your channel on Telegram. \n have fun 😘",
+        "name": "CHANNEL",
+        "description": "Update my project. \n have fun 😘",
         "image": "images/image1.jpg",
-        "link": "https://t.me/Music_Livez"
+        "link": "https://t.me/BUJELPROJECT"
 	},
     {
-        "name": "Telegram Gdrive Clone",
-        "description": "This bot can clone gdrive link from Gdrive \n and you can download it by index link. \n click visit to use this bot. ",
+        "name": "APK MOD",
+        "description": "Updated apk mod. \n click visit to see the mod. ",
         "image": "images/image2.jpg",
-        "link": "http://t.me//GdriveUpRobot"
+        "link": "http://t.me//BUJELMOD"
 	},
     {
-        "name": "Youtube Downloader",
-        "description": "She can download Video and audio from YouTube. \n Then upload on telegram \n click visit to see the bot.",
+        "name": "STORE",
+        "description": "Selling various accounts, such as spotify, youtube premium, apple music and many more. \n click visit to see the store.",
         "image": "images/image3.jpg",
-        "link": "https://t.me/NiceYT_Bot"
+        "link": "https://t.me/BUJEL_STORE"
+	}
+    {
+        "name": "BINNERS",
+        "description": "Updated free bin for premium website. \n click visit to see the bins.",
+        "image": "images/image4.jpg",
+        "link": "https://t.me/Just_Bins"
 	}
 ]
