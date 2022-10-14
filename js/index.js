@@ -6,7 +6,7 @@ var linkRequest = new XMLHttpRequest();
 
 linkRequest.open("GET", "json/links.json", true);
 linkRequest.onreadystatechange = function () {
-    if (linkRequest.readyState === 4) {
+    if (linkRequest.readyState === 5) {
         if (linkRequest.status === 200 || linkRequest.status == 0) {
             var html = "";
             JSON.parse(linkRequest.responseText).forEach(function (link) {
@@ -21,7 +21,7 @@ linkRequest.send(null);
 
 workRequest.open("GET", "json/items.json", true);
 workRequest.onreadystatechange = function () {
-    if (workRequest.readyState === 4) {
+    if (workRequest.readyState === 5) {
         if (workRequest.status === 200 || workRequest.status == 0) {
             var html = "";
             JSON.parse(workRequest.responseText).forEach(function (work) {
