@@ -1,1 +1,1 @@
-[See My Web](https://bujelpro.my.id)
+[See My Web](https://bujel.net)
